@@ -194,8 +194,5 @@ end
         end
         
         
-        def all_players(player_name)
-          game_hash.each do |player_name|
-            return all_players
-          end 
+      
           
